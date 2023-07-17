@@ -70,7 +70,7 @@ The simplest way to use the handoff feature is to do the following:
     ```bash
     rasa run -m models --enable-api --cors "*" –debug
     ```
-7. Open [chatroom_handoff.html](WebChat/index.html) in a browser to see handoff in action
+7. Open [index.html](WebChat/index.html) in a browser to see handoff in action
 
 
 ## Testing the bot
