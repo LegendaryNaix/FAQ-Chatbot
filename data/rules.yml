@@ -2,6 +2,10 @@ version: "3.1"
 
 rules:
 
+- rule: path number0
+  steps:
+  - intent: سلام
+  - action: utter_سلام
 - rule: path number1
   steps:
   - intent: 1-اینترنت-مشکلات-فعال سازی سرویس
