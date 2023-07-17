@@ -5,8 +5,8 @@ This is a example Rasa frequently asked question and answer Chatbot that develop
 Here is an example of a conversation you can have with this bot:
 
 <p float="left">
-<img src="./screenshots/demo_1.png" width="420" height="360">
-<img src="./screenshots/demo_2.png" width="420" height="360">
+<img src="./screenshots/demo_1.png" width="50%">
+<img src="./screenshots/demo_2.png" width="50%">
 </p>
 
 **Table of Contents**
