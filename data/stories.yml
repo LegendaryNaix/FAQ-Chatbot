@@ -1,0 +1,204 @@
+version: "3.1"
+
+stories:
+
+- story: path number1
+  steps:
+  - intent: 1-اینترنت-مشکلات-فعال سازی سرویس
+  - action: utter_1-اینترنت-مشکلات-فعال سازی سرویس
+- story: path number2
+  steps:
+  - intent: 2-اینترنت-مشکلات-فعال سازی سرویس
+  - action: utter_2-اینترنت-مشکلات-فعال سازی سرویس
+- story: path number3
+  steps:
+  - intent: 1-اینترنت-مشکلات-غیر فعال سازی سرویس
+  - action: utter_1-اینترنت-مشکلات-غیر فعال سازی سرویس
+- story: path number4
+  steps:
+  - intent: 2-اینترنت-مشکلات-غیر فعال سازی سرویس
+  - action: utter_2-اینترنت-مشکلات-غیر فعال سازی سرویس
+- story: path number5
+  steps:
+  - intent: 3-اینترنت-مشکلات-فعال سازی سرویس
+  - action: utter_3-اینترنت-مشکلات-فعال سازی سرویس
+- story: path number6
+  steps:
+  - intent: 1-اینترنت-مشکلات-سرویس آموزش
+  - action: utter_1-اینترنت-مشکلات-سرویس آموزش
+- story: path number7
+  steps:
+  - intent: 2-اینترنت-مشکلات-سرویس آموزش
+  - action: utter_2-اینترنت-مشکلات-سرویس آموزش
+- story: path number8
+  steps:
+  - intent: 1-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+  - action: utter_1-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+- story: path number9
+  steps:
+  - intent: 2-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+  - action: utter_2-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+- story: path number10
+  steps:
+  - intent: 3-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+  - action: utter_3-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+- story: path number11
+  steps:
+  - intent: 4-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+  - action: utter_4-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+- story: path number12
+  steps:
+  - intent: 5-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+  - action: utter_5-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+- story: path number13
+  steps:
+  - intent: 6-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+  - action: utter_6-اینترنت-مشکلات-مشکلات اتصال به اینترنت
+- story: path number14
+  steps:
+  - intent: 1-اینترنت-مشکلات-4G و 4.5G
+  - action: utter_1-اینترنت-مشکلات-4G و 4.5G
+- story: path number15
+  steps:
+  - intent: 2-اینترنت-مشکلات-4G و 4.5G
+  - action: utter_2-اینترنت-مشکلات-4G و 4.5G
+- story: path number16
+  steps:
+  - intent: 3-اینترنت-مشکلات-4G و 4.5G
+  - action: utter_3-اینترنت-مشکلات-4G و 4.5G
+- story: path number17
+  steps:
+  - intent: 4-اینترنت-مشکلات-4G و 4.5G
+  - action: utter_4-اینترنت-مشکلات-4G و 4.5G
+- story: path number18
+  steps:
+  - intent: 1-اینترنت-بسته-بسته‌های اینترنت
+  - action: utter_1-اینترنت-بسته-بسته‌های اینترنت
+- story: path number19
+  steps:
+  - intent: 2-اینترنت-بسته-بسته‌های اینترنت
+  - action: utter_2-اینترنت-بسته-بسته‌های اینترنت
+- story: path number20
+  steps:
+  - intent: 3-اینترنت-بسته-بسته‌های اینترنت
+  - action: utter_3-اینترنت-بسته-بسته‌های اینترنت
+- story: path number21
+  steps:
+  - intent: 1-اینترنت-بسته-خرید بسته از شاپ (فروشگاه)
+  - action: utter_1-اینترنت-بسته-خرید بسته از شاپ (فروشگاه)
+- story: path number22
+  steps:
+  - intent: 2-اینترنت-بسته-خرید بسته از شاپ (فروشگاه)
+  - action: utter_2-اینترنت-بسته-خرید بسته از شاپ (فروشگاه)
+- story: path number23
+  steps:
+  - intent: 1-اینترنت-بسته-خرید بسته از *100#
+  - action: utter_1-اینترنت-بسته-خرید بسته از *100#
+- story: path number24
+  steps:
+  - intent: 1-اینترنت-بسته-نام تجاری نوترینو
+  - action: utter_1-اینترنت-بسته-نام تجاری نوترینو
+- story: path number25
+  steps:
+  - intent: 2-اینترنت-بسته-نام تجاری نوترینو
+  - action: utter_2-اینترنت-بسته-نام تجاری نوترینو
+- story: path number26
+  steps:
+  - intent: 1-اینترنت-بسته-بسته‌های اینترنت پاک
+  - action: utter_1-اینترنت-بسته-بسته‌های اینترنت پاک
+- story: path number27
+  steps:
+  - intent: 1-اینترنت-بسته-بسته‌های ساعات مشخص
+  - action: utter_1-اینترنت-بسته-بسته‌های ساعات مشخص
+- story: path number28
+  steps:
+  - intent: 2-اینترنت-بسته-بسته‌های ساعات مشخص
+  - action: utter_2-اینترنت-بسته-بسته‌های ساعات مشخص
+- story: path number29
+  steps:
+  - intent: 3-اینترنت-بسته-بسته‌های ساعات مشخص
+  - action: utter_3-اینترنت-بسته-بسته‌های ساعات مشخص
+- story: path number30
+  steps:
+  - intent: 4-اینترنت-بسته-بسته‌های ساعات مشخص
+  - action: utter_4-اینترنت-بسته-بسته‌های ساعات مشخص
+- story: path number31
+  steps:
+  - intent: 5-اینترنت-بسته-بسته‌های ساعات مشخص
+  - action: utter_5-اینترنت-بسته-بسته‌های ساعات مشخص
+- story: path number32
+  steps:
+  - intent: 1-اینترنت-بسته-بسته ویژه مشترکین جدید
+  - action: utter_1-اینترنت-بسته-بسته ویژه مشترکین جدید
+- story: path number33
+  steps:
+  - intent: 2-اینترنت-بسته-بسته ویژه مشترکین جدید
+  - action: utter_2-اینترنت-بسته-بسته ویژه مشترکین جدید
+- story: path number34
+  steps:
+  - intent: 3-اینترنت-بسته-بسته ویژه مشترکین جدید
+  - action: utter_3-اینترنت-بسته-بسته ویژه مشترکین جدید
+- story: path number35
+  steps:
+  - intent: 1-اینترنت-بسته-استعلام بسته
+  - action: utter_1-اینترنت-بسته-استعلام بسته
+- story: path number36
+  steps:
+  - intent: 2-اینترنت-بسته-استعلام بسته
+  - action: utter_2-اینترنت-بسته-استعلام بسته
+- story: path number37
+  steps:
+  - intent: 3-اینترنت-بسته-استعلام بسته
+  - action: utter_3-اینترنت-بسته-استعلام بسته
+- story: path number38
+  steps:
+  - intent: 4-اینترنت-بسته-استعلام بسته
+  - action: utter_4-اینترنت-بسته-استعلام بسته
+- story: path number39
+  steps:
+  - intent: 1-اینترنت-بسته-لغو تمدید بسته
+  - action: utter_1-اینترنت-بسته-لغو تمدید بسته
+- story: path number40
+  steps:
+  - intent: 2-اینترنت-بسته-لغو تمدید بسته
+  - action: utter_2-اینترنت-بسته-لغو تمدید بسته
+- story: path number41
+  steps:
+  - intent: 3-اینترنت-بسته-لغو تمدید بسته
+  - action: utter_3-اینترنت-بسته-لغو تمدید بسته
+- story: path number42
+  steps:
+  - intent: 4-اینترنت-بسته-لغو تمدید بسته
+  - action: utter_4-اینترنت-بسته-لغو تمدید بسته
+- story: path number43
+  steps:
+  - intent: 5-اینترنت-بسته-لغو تمدید بسته
+  - action: utter_5-اینترنت-بسته-لغو تمدید بسته
+- story: path number44
+  steps:
+  - intent: 6-اینترنت-بسته-لغو تمدید بسته
+  - action: utter_6-اینترنت-بسته-لغو تمدید بسته
+- story: path number45
+  steps:
+  - intent: 7-اینترنت-بسته-لغو تمدید بسته
+  - action: utter_7-اینترنت-بسته-لغو تمدید بسته
+- story: path number46
+  steps:
+  - intent: 1-اینترنت-بسته-بسته‌های نامحدود شبانه
+  - action: utter_1-اینترنت-بسته-بسته‌های نامحدود شبانه
+- story: path number47
+  steps:
+  - intent: 2-اینترنت-بسته-بسته‌های نامحدود شبانه
+  - action: utter_2-اینترنت-بسته-بسته‌های نامحدود شبانه
+- story: path number48
+  steps:
+  - intent: 3-اینترنت-بسته-بسته‌های نامحدود شبانه
+  - action: utter_3-اینترنت-بسته-بسته‌های نامحدود شبانه
+- story: path number49
+  steps:
+  - intent: 4-اینترنت-بسته-بسته‌های نامحدود شبانه
+  - action: utter_4-اینترنت-بسته-بسته‌های نامحدود شبانه
+- story: path number50
+  steps:
+  - intent: 5-اینترنت-بسته-بسته‌های نامحدود شبانه
+  - action: utter_5-اینترنت-بسته-بسته‌های نامحدود شبانه
