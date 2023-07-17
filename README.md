@@ -4,8 +4,8 @@ This is a example Rasa frequently asked question and answer Chatbot that develop
 
 Here is an example of a conversation you can have with this bot:
 
-<img src="./screenshots/demo_1.png" width="100" height="100">
-<img src="./screenshots/demo_2.png" width="100" height="100">
+<img src="./screenshots/demo_1.png" width="550" height="360">
+<img src="./screenshots/demo_2.png" width="550" height="360">
 
 
 **Table of Contents**
