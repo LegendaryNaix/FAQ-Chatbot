@@ -34,7 +34,6 @@ pip install -r requirements.txt
 ## Running the bot
 
 Use `rasa train` to train a model.
-```
 
 Then to talk to the bot, run:
 
